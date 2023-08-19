@@ -27,7 +27,7 @@ public class DemoTest {
     @Test(dependsOnMethods = {"Login"},priority = 2)
     public void Logout()
     {
-        System.out.println("Closiing Brrowser");
+        System.out.println("Closing Brrowser");
     }
 
 }
