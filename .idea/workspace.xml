@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48e04062-a703-4f48-af36-8d3c9346770a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Automation1/.idea/Automation1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automation1/.idea/Automation1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automation1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automation1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automation1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automation1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkOrangeHRM/src/test/java/com/Frame/qa/TestCases/AssignLeavePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameworkOrangeHRM/src/test/java/com/Frame/qa/TestCases/AssignLeavePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkOrangeHRM/src/test/resources/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameworkOrangeHRM/src/test/resources/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/FrameworkOrangeHRM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/FrameworkZoom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/config/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/AdminPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/AssignLeavePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/ContactPageZoomData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/DirectoryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/LeavePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/LoginPageZoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/MarketPlacePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/main/java/com/Frame/qa/pages/PimPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/Listeners/ScreenshotListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/AdminPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/DirectoryPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/ExcelDataResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/HomeReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/TestCases/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/Util/CaptureType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/Util/FrameWorkUtls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/Util/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/data/ExcelData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/java/com/Frame/qa/reports/HtmlReports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/resources/TestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameworkZoom/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/ISP-Database-Framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Base/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Config/Config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Listeners/ScreenshotListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/AdditionalInformationTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/EmergencyCustTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/GeneralInformationTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/MainNavigation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/ParentsSiblingsTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/StudentTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Pages/UserDashboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/TestCases/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/TestCases/MainNavigationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/TestCases/StudentTabTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/TestCases/UserDashboardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/TestData/ISP_DatabaseTestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Utils/CaptureType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/src/test/java/co/pragra/ISP/Framework/Utils/FrameWorkUtls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Database/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISP-Framework/ISP-Framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMFramework/OrangeHRMFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/Pom-Design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/base/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/pages/ContactSales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/pages/SignIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/main/java/com/pragra/learning/util/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/src/test/java/com/pragra/learning/testcases/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/classes/com/pragra/learning/base/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/classes/com/pragra/learning/pages/ContactSales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/classes/com/pragra/learning/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/classes/com/pragra/learning/pages/SignIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/classes/com/pragra/learning/util/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pom-Design/target/test-classes/com/pragra/learning/testcases/LoginPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/ZoomFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/ZoomFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/main/java/com/zoom/qa/base/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/main/java/com/zoom/qa/com/zoom/qa/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/main/java/com/zoom/qa/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/main/java/com/zoom/qa/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/main/java/com/zoom/qa/util/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZoomFramework/src/test/java/com/zoom/qa/testcases/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-sel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abstraction-sel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/abstraction-selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/src/test/java/AbstractionSelenium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction-selenium/target/test-classes/AbstractionSelenium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/com.pragra.learning.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B5 Learning/BackEnd_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B5 Learning/BackEnd_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B5 Learning/BackEnd_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B5 Learning/BackEnd_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/BackEnd_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/BackEnd_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/BackEnd_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/BackEnd_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/frontend_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/frontend_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/frontend_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/B7 learning/frontend_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/junitreports/TEST-co.pragra.testlearning.HomeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/junitreports/TEST-co.pragra.testlearning.HomeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/junitreports/TEST-co.pragra.testlearning.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/junitreports/TEST-co.pragra.testlearning.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B5 Learning/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/B7 learning/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/Default Suite/delete_ng.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/Default Suite/delete_ng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/Default Suite/delete_ng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/Default Suite/delete_ng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/junitreports/TEST-co.pragra.testlearning.HomeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/junitreports/TEST-co.pragra.testlearning.HomeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete_ng/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../delete_ng/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git-project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel/src/main/java/HomeHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel/src/main/java/HomeHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel/target/classes/HomeHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel/target/classes/HomeHotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selbatch19" beforeDir="false" afterPath="$PROJECT_DIR$/../selbatch19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium.first/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium.first/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium.first/src/test/java/HomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium.first/src/test/java/HomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium.first/target/test-classes/HomeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium.first/target/test-classes/HomeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium.first/target/test-classes/META-INF/selenium.first.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selframework" beforeDir="false" afterPath="$PROJECT_DIR$/../selframework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream_delete/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream_delete/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream_delete/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream_delete/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream_delete/stream_delete.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vivekProject" beforeDir="false" afterPath="$PROJECT_DIR$/../vivekProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd3seleniumcoopframework/testng.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKF3wJuBqvJ7BBczEy99EdAA14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.pragra.learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e04062-a703-4f48-af36-8d3c9346770a" name="Default Changelist" comment="" />
+      <created>1582683183531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582683183531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1591562234808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591562234808" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1582988817788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582988817788" />
+    <state x="91" y="49" key="new project wizard" timestamp="1582990529126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="49" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1582990529126" />
+  </component>
+</project>

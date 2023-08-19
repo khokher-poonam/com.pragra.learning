@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="B5 learning">
+    <test name="b5-learning">
+        <classes>
+            <class name="DemoTest"></class>
+        </classes>
+    </test>
+</suite>
